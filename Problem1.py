@@ -23,3 +23,5 @@ while counter < end:
     counter += 1
 
 print("Die Summe ist %r" % (sum))
+
+# -----DONE-----
